@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+Angular         
+sites for learning              https://cli.angular.io/    
+Commands              npm install - g @angular/cli 
+//install package manager                  ng is used fo Angular       
+Creating New Angular Project              ng new App-Name             
+cd APP-Name           
+ng server
